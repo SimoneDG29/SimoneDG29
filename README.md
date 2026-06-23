@@ -29,7 +29,6 @@ Bachelor's degree in Computer Science focused on Cybersecurity, DevSecOps, and C
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
